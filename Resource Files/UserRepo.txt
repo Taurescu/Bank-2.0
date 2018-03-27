@@ -1,0 +1,7 @@
+ 600000 BasicUserTest1 300 
+ 150000 CreditUserTest1 590 1500 10 
+ 150001 CreditUserTest2 502 5021 10042 
+ 50001 GoldUserTest1 578 5520 10 410 409 
+ 50000 GoldUserTest2 400 5024 0 0 0 0 
+ 50005 GoldUserTest3 500 100 0 
+ 60000 GoldUserTest4 500 100 150 
