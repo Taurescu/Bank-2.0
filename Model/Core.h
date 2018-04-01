@@ -17,7 +17,7 @@ public:
 
 //default constructors/deconstructor
 	Core();
-	~Core();
+	virtual ~Core();
 
 //Public function for accesing data
 //Pure virtual functions
