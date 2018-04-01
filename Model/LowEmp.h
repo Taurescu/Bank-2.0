@@ -8,7 +8,7 @@ class LowEmp:public Core
 {
 public:
 	LowEmp();
-	~LowEmp();
+	virtual ~LowEmp();
 
 	//Public function for accesing data
 	 void setName(std::string n) { name = n; }
