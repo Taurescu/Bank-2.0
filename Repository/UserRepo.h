@@ -9,7 +9,7 @@ class UserRepo
 {
 public:
 	UserRepo();
-	~UserRepo();
+	virtual ~UserRepo();
 
 //Populate a vector<Core> with all vector from the class
 	void read_all_users(std::vector<Core*>&);
