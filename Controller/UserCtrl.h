@@ -15,7 +15,7 @@ public:
 
 //Default constructor
 	UserCtrl();
-	~UserCtrl();
+	virtual ~UserCtrl();
 
 //Function that all Users and Employee have acces
 	virtual void add_economy_account(int&);
