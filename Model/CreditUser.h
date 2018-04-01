@@ -11,7 +11,7 @@ class CreditUser:public BasicUser
 public:
 //Default constructor/destructor
 	CreditUser();
-	~CreditUser();
+	virtual ~CreditUser();
 
 
 //Functions to get and set the salary and credit;
