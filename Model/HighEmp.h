@@ -11,7 +11,7 @@
 class HighEmp:public LowEmp {
 public:
 	HighEmp();
-	~HighEmp();
+	virtual ~HighEmp();
 
 //Function to convert all variable in strings
 	 std::string to_String();
