@@ -17,7 +17,7 @@ public:
 //Rule of three copy/assigned/destructor
 	BasicUser(const BasicUser&);
 	BasicUser& operator=(const BasicUser&);
-	~BasicUser();
+	virtual ~BasicUser();
 
 //Function to get or set the balance
 	 void setBalance(unsigned int b) { balance = b; }
